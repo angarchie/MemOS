@@ -1,3 +1,5 @@
+<img width="3920" height="1841" alt="124" src="https://github.com/user-attachments/assets/32bffc27-5b70-4b22-8ae7-95e1aa3aba2a" />
+
 <div align="center">
   <a href="https://memos.openmem.net/">
     <img src="https://statics.memtensor.com.cn/memos/memos-banner.gif" alt="MemOS Banner">
